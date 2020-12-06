@@ -1,4 +1,6 @@
 ﻿using ElevenNote.Models;
+using ElevenNote.Services;
+using Microsoft.AspNet.Identity;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -11,9 +13,12 @@ namespace ElevenNote.WebMVC.Controllers
     public class NoteController : Controller
     {
         // GET: Note
-        public ActionResult Index()
+        public ActionResult Index()  // Displays all the notes for the current user
         {
-            var model = new NoteListItem[0];
+            var userId = Guid.Parse(User.Identity.GetUserId());
+            var service = new NoteService(userId);
+            var model = service.GetNotes();
+
             return View(model);
         }
 
@@ -25,13 +30,21 @@ namespace ElevenNote.WebMVC.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create(NoteCreate model)
+        public ActionResult Create(NoteCreate model)  //Makes sure teh model is valid, grabs the current userID, calls on teh Create Note and returns back to the index view
         {
-            if (ModelState.IsValid)
             {
+                if (!ModelState.IsValid)
+                {
+                    return View(model);
+                }
 
+                var userId = Guid.Parse(User.Identity.GetUserId());
+                var service = new NoteService(userId);
+
+                service.CreateNote(model);
+
+                return RedirectToAction("Index");
             }
-            return View(model);
         }
     }
 }
