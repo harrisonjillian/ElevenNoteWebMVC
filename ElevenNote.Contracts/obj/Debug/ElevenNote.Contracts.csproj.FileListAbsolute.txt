@@ -14,3 +14,11 @@ C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contra
 C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.csproj.CopyComplete
 C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.dll
 C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\obj\Debug\ElevenNote.Contracts.pdb
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\Newtonsoft.Json.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\Newtonsoft.Json.xml
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.xml
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Contracts\bin\Debug\System.Web.Http.WebHost.xml

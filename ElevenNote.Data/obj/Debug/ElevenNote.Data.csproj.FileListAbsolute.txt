@@ -14,3 +14,14 @@ C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\o
 C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.CopyComplete
 C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.dll
 C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.pdb
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.InitialCreate.resources
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.csproj.GenerateResource.cache
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\obj\Debug\ElevenNote.Data.Migrations.UpdatedDatabase.resources
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.xml
+C:\Users\harri\OneDrive\Desktop\ElevenFiftyProjects\ElevenNote\ElevenNote.Data\bin\Debug\System.Web.Http.WebHost.xml
